@@ -1,7 +1,6 @@
-##Climate Resilience Project: Southern Africa
+## Climate Resilience Project: Southern Africa
 
-**A Python analysis of climate patterns, vulnerability, and future risk in Southern Africa.
-**
+** A Python analysis of climate patterns, vulnerability, and future risk in Southern Africa.**
 
 ---
 
