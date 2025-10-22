@@ -1,20 +1,20 @@
-Climate Resilience Project: Southern Africa
+##Climate Resilience Project: Southern Africa
 
-A Python analysis of climate patterns, vulnerability, and future risk in Southern Africa.
-
+**A Python analysis of climate patterns, vulnerability, and future risk in Southern Africa.
+**
 
 ---
 
-1. Project Overview
+**1. Project Overview**
 
 This project examines climate data for ten countries in Southern Africa to understand how temperature, rainfall, and drought patterns are changing.
 It evaluates the potential impact on the region and proposes data-based strategies for adaptation and mitigation.
 
-Goals
+**Goals**
 
-Track historical temperature and precipitation trends
+- Track historical temperature and precipitation trends
 
-Identify regions with higher exposure and vulnerability
+- Identify regions with higher exposure and vulnerability
 
 Model possible future climate scenarios
 
