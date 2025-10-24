@@ -31,8 +31,8 @@ Code reference: generate_synthetic_climate_data()
 Synthetic monthly climate data was generated for the period 1990 to 2020 for ten SADC countries.
 Each record includes temperature, precipitation, and a drought index.
 
-After cleaning and aggregation, the dataset contained 3,720 rows with annual averages per country.
-
+The raw dataset contained 3,720 monthly records (1990–2020) across ten SADC countries.
+After cleaning and aggregation, it was reduced to 310 annual averages per country.
 
 ---
 
