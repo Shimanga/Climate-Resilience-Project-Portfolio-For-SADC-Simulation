@@ -1,6 +1,6 @@
 ## Climate Resilience Project: Southern Africa
 
-** A Python analysis of climate patterns, vulnerability, and future risk in Southern Africa.**
+**A Python analysis of climate patterns, vulnerability, and future risk in Southern Africa.**
 
 ---
 
@@ -15,15 +15,15 @@ It evaluates the potential impact on the region and proposes data-based strategi
 
 - Identify regions with higher exposure and vulnerability
 
-Model possible future climate scenarios
+- Model possible future climate scenarios
 
-Suggest practical steps to strengthen climate resilience
+- Suggest practical steps to strengthen climate resilience
 
 
 
 ---
 
-2. Data Collection and Processing
+**2. Data Collection and Processing**
 
 Code reference: generate_synthetic_climate_data()
 
@@ -35,13 +35,13 @@ After cleaning and aggregation, the dataset contained 3,720 rows with annual ave
 
 ---
 
-3. Exploratory Data Analysis
+**3. Exploratory Data Analysis**
 
 Code reference: EDA and Trend Visualization
 
 The analysis explored changes in temperature, rainfall, and drought frequency across the region.
 
-Main observations
+**Main observations**
 
 Temperatures increased steadily across all countries
 
@@ -50,7 +50,7 @@ Arid zones like Namibia and Botswana showed higher rainfall variability
 Drought conditions occurred in more than 15% of recorded months
 
 
-Charts produced included:
+**Charts produced included:**
 
 Annual temperature and precipitation trends
 
@@ -62,21 +62,21 @@ Drought frequency per country
 
 ---
 
-4. Climate Trend Analysis
+**4. Climate Trend Analysis**
 
 Code reference: calculate_climate_trends()
 
 Linear regression was used to measure temperature, precipitation, and drought trends over time.
 
-Key results
+**Key results**
 
-Average warming rate: 0.26°C per decade
+- **Average warming rate:** 0.26°C per decade
 
-Highest rate: Eswatini (0.35°C per decade)
+- **Highest rate: Eswatini** (0.35°C per decade)
 
-Declining precipitation in Namibia and Zambia
+- **Declining precipitation** in Namibia and Zambia
 
-Consistent drought frequency above 15 percent
+- Consistent **drought frequency** above 15 percent
 
 
 A combined chart visualized each country’s warming rate and drought frequency to show relative risk.
@@ -84,7 +84,7 @@ A combined chart visualized each country’s warming rate and drought frequency 
 
 ---
 
-5. Vulnerability Assessment
+**5. Vulnerability Assessment**
 
 Code reference: calculate_vulnerability_index()
 
@@ -119,7 +119,7 @@ K-Means clustering grouped countries into high, moderate, and low vulnerability 
 
 ---
 
-6. Future Climate Projections
+**6. Future Climate Projections**
 
 Code reference: generate_future_scenarios()
 
@@ -132,7 +132,7 @@ SSP3-7.0 (high)
 SSP5-8.5 (severe)
 
 
-Findings
+**Findings**
 
 Expected regional temperature rise between 1.5°C and 3.0°C by 2050
 
@@ -144,7 +144,7 @@ Stronger impact scores for countries in the high vulnerability group
 
 ---
 
-7. Mitigation and Adaptation Strategies
+**7. Mitigation and Adaptation Strategies**
 
 Code reference: recommend_strategies()
 
@@ -160,22 +160,22 @@ Low	South Africa, Angola	Strategic	Green tech, ecosystem restoration, regional k
 
 ---
 
-8. Implementation Roadmap and Monitoring
+**8. Implementation Roadmap and Monitoring**
 
 Code reference: create_implementation_roadmap()
 
 A phased plan was outlined to support policy and project execution.
 
-Short term (2024-2026)
+**Short term (2024-2026)**
 Policy development, pilot projects, training
 
-Medium term (2027-2030)
+**Medium term (2027-2030)**
 Infrastructure investment, regional cooperation
 
-Long term (2031-2040)
+**Long term (2031-2040)**
 System transformation, sustainable financing
 
-Monitoring indicators
+**Monitoring indicators**
 
 90% population covered by early warning systems by 2030
 
@@ -189,7 +189,7 @@ Monitoring indicators
 
 ---
 
-9. Summary of Results
+**9. Summary of Results**
 
 Code reference: summary()
 
@@ -197,7 +197,7 @@ Average warming: 0.26°C per decade
 Most vulnerable: Namibia, Mozambique, Zimbabwe
 Main risks: drought, heat stress, rainfall variability
 
-Policy focus
+**Policy focus**
 
 Expand climate-smart agriculture
 
@@ -211,7 +211,7 @@ Increase access to adaptation finance
 
 ---
 
-10. Tools and Methods
+**10. Tools and Methods**
 
 Language: Python
 
@@ -225,7 +225,7 @@ Outputs: Time-series charts, radar plots, cluster maps, strategy matrices
 
 ---
 
-11. Next Steps
+**11. Next Steps**
 
 Replace synthetic data with satellite datasets (CHIRPS, ERA5)
 
@@ -237,7 +237,7 @@ Test predictive models for drought and temperature projection
 
 ---
 
-12. About the Project Files
+**12. About the Project Files**
 
 File	Description
 
