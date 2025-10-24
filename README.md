@@ -59,7 +59,7 @@ Warming rates per decade
 
 Drought frequency per country
 
-
+[Temperature Trends](https://github.com/Shimanga/Climate-Resilience-Project-Portfolio-For-Southern-Africa-/blob/main/Temperature%20trends.png)
 
 ---
 
