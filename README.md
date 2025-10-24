@@ -21,6 +21,7 @@ It evaluates the potential impact on the region and proposes data-based strategi
 
 
 *Note: The dataset used in this project was synthetically generated to simulate 30 years of climate patterns for demonstration purposes*
+
 ---
 
 **2. Data Collection and Processing**
