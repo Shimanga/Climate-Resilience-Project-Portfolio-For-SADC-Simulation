@@ -61,6 +61,18 @@ Drought frequency per country
 
 ![Temperature Trends](https://github.com/Shimanga/Climate-Resilience-Project-Portfolio-For-Southern-Africa-/blob/main/Temperature%20trends.png)
 
+**Figure 1: Climate Patterns and Trends (1990–2020)**
+
+> **Subplots include:**
+
+**Temperature Trends:** Steady warming across all SADC countries.
+
+**Annual Precipitation:** Noticeable variability and decline in arid countries.
+
+**Warming Rates per Decade:** Consistent regional increase of 0.2–0.3°C.
+
+**Severe Drought Frequency:** Over 15% of months show drought stress in most regions.
+
 ---
 
 **4. Climate Trend Analysis**
@@ -83,6 +95,18 @@ Linear regression was used to measure temperature, precipitation, and drought tr
 A combined chart visualized each country’s warming rate and drought frequency to show relative risk.
 
 ![Percipitation Trends](https://github.com/Shimanga/Climate-Resilience-Project-Portfolio-For-Southern-Africa-/blob/main/Percipitation%20trends.png)
+
+**Figure 2: Climate Vulnerability and Trend Analysis**
+
+> **Subplots include:**
+
+**Warming Rates per Decade:** Highlights uneven heat intensity across the region.
+
+**Precipitation Trends:** Declining rainfall in Namibia and Zambia; modest gains in Mozambique.
+
+**Drought Frequency:** Frequent dry periods in Zimbabwe, Mozambique, and Namibia.
+
+**Climate Vulnerability Matrix:** Integrates warming, drought, and rainfall data to visualize overall country-level risk.
 
 ---
 
