@@ -82,6 +82,7 @@ Linear regression was used to measure temperature, precipitation, and drought tr
 
 A combined chart visualized each country’s warming rate and drought frequency to show relative risk.
 
+![Percipitation Trends](https://github.com/Shimanga/Climate-Resilience-Project-Portfolio-For-Southern-Africa-/blob/main/Percipitation%20trends.png)
 
 ---
 
