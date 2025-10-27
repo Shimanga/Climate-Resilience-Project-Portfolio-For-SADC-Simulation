@@ -265,13 +265,14 @@ Test predictive models for drought and temperature projection
 
 **12. About the Project Files**
 
-File	Description
 
-Climate risk project.ipynb	Main Jupyter Notebook containing all Python analysis, visualizations, and functions.
-data/	Folder for climate datasets (synthetic or real data in future versions).
-figures/	Contains saved plots and charts generated during analysis.
-outputs/	Stores trend tables, vulnerability indices, and future projection summaries.
-README.md	Overview of the entire project (this file).
+| File / Folder | Description |
+|----------------|-------------|
+| `Climate risk project.ipynb` | Main Jupyter Notebook containing all Python analysis, visualizations, and functions. |
+| `data/` | Folder for climate datasets (synthetic or real data in future versions). |
+| `figures/` | Contains saved plots and charts generated during analysis. |
+| `outputs/` | Stores trend tables, vulnerability indices, and future projection summaries. |
+| `README.md` | Overview of the entire project (this file). |
 
 
 
@@ -280,6 +281,7 @@ README.md	Overview of the entire project (this file).
 Author
 
 Shimanga Mubitana
+
 Focused on linking data, climate, and development insights for Southern Africa.
 
 
