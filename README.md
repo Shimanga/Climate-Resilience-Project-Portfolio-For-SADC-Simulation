@@ -270,8 +270,7 @@ Test predictive models for drought and temperature projection
 |----------------|-------------|
 | `Climate risk project.ipynb` | Main Jupyter Notebook containing all Python analysis, visualizations, and functions. |
 | `.csv` | Files for climate datasets |
-| `figures/` | Contains saved plots and charts generated during analysis. |
-| `outputs/` | Stores trend tables, vulnerability indices, and future projection summaries. |
+| `.png` | Contains saved plots and charts generated during analysis. |
 | `README.md` | Overview of the entire project (this file). |
 
 
