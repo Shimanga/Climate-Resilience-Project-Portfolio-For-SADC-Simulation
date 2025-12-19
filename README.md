@@ -1,4 +1,4 @@
-## Climate Resilience Project: Southern Africa
+## Climate Resilience Project: Southern Africa Simulation
 
 **A Python analysis of climate patterns, vulnerability, and future risk in Southern Africa.**
 
@@ -77,8 +77,6 @@ Drought frequency per country
 
 **4. Climate Trend Analysis**
 
-Code reference: calculate_climate_trends()
-
 Linear regression was used to measure temperature, precipitation, and drought trends over time.
 
 **Key results**
@@ -112,7 +110,7 @@ A combined chart visualized each country’s warming rate and drought frequency 
 
 **5. Vulnerability Assessment**
 
-Code reference: calculate_vulnerability_index()
+Code reference: calculate_vulnerability_index
 
 A simple Climate Vulnerability Index was developed using three weighted components:
 
@@ -147,7 +145,7 @@ K-Means clustering grouped countries into high, moderate, and low vulnerability 
 
 **6. Future Climate Projections**
 
-Code reference: generate_future_scenarios()
+Code reference: generate_future_scenarios
 
 Using the observed trends, projections were made for three simplified IPCC scenarios:
 
@@ -172,7 +170,7 @@ Stronger impact scores for countries in the high vulnerability group
 
 **7. Mitigation and Adaptation Strategies**
 
-Code reference: recommend_strategies()
+Code reference: recommend_strategies
 
 Each country received a set of recommendations based on its vulnerability level.
 
@@ -188,7 +186,7 @@ Low	South Africa, Angola	Strategic	Green tech, ecosystem restoration, regional k
 
 **8. Implementation Roadmap and Monitoring**
 
-Code reference: create_implementation_roadmap()
+Code reference: create_implementation_roadmap
 
 A phased plan was outlined to support policy and project execution.
 
@@ -217,7 +215,7 @@ System transformation, sustainable financing
 
 **9. Summary of Results**
 
-Code reference: summary()
+Code reference: summary
 
 Average warming: 0.26°C per decade
 Most vulnerable: Namibia, Mozambique, Zimbabwe
