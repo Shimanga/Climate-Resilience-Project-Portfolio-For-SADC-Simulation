@@ -26,7 +26,7 @@ It evaluates the potential impact on the region and proposes data-based strategi
 
 **2. Data Collection and Processing**
 
-Code reference: generate_synthetic_climate_data()
+Code reference: generate_synthetic_climate_data
 
 Synthetic monthly climate data was generated for the period 1990 to 2020 for ten SADC countries.
 Each record includes temperature, precipitation, and a drought index.
